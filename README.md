@@ -25,6 +25,7 @@ To use the dashboard:
 ## Navigate to the Project Folder:
 ```bash
 cd x_dashboard
+```
 ## Open the Power BI File:
 Open the .pbix file provided in the repository with Power BI Desktop.
 
