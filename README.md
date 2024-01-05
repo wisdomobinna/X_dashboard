@@ -42,9 +42,6 @@ After loading the data, you can interact with the dashboard to explore various K
 ## Contributing
 We welcome contributions to this project. If you have suggestions or improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under [specify license type]. Please see the LICENSE file for more details.
-
 ## Contact Information
-For any queries or further information, please contact [Your Name or Team Contact Information].
+For any queries or further information, please contact wisdom.k.obinna@gmail.com.
 
